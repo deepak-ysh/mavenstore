@@ -12,7 +12,8 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-	int id = 22;
+	int id = 22; 
+	int id =33
     @Test
     public void shouldAnswerWithTrue()
     {
