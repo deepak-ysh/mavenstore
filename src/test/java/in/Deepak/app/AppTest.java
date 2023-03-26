@@ -14,6 +14,7 @@ public class AppTest
      */
 	int id = 22; 
 	int id =33
+	int id = 44;
     @Test
     public void shouldAnswerWithTrue()
     {
